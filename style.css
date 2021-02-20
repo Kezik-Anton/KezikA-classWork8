@@ -1,0 +1,21 @@
+.overlay {
+
+}
+
+.blackout {
+
+}
+
+.popup {
+    width: 80%;
+    z-index: 10;
+    position: absolute;
+}
+
+.close {
+
+}
+
+.popup-inner {
+    
+}
